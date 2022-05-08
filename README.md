@@ -1,4 +1,4 @@
-# Malaria Report
+# Malaria Task Overview
 This report aims to share some interesting findings on Africa with regards to its malaria levels and circumstances.
 # Datasets Used
  No. | Dataset | Description 
