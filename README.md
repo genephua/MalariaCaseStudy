@@ -10,5 +10,5 @@ This report aims to share some interesting findings on Africa with regards to it
 The report is provided here in PDF format:
 [Malaria Task Findings](https://github.com/genephua/MalariaTask/blob/main/Malaria%20Task%20Findings.pdf)
 # Charts/Graphs Used
-The charts and graphs used were produced by using Tableau. The Tableau workbook is provided here. 
-[Malaria Task Findings Chart](https://github.com/genephua/MalariaTask/blob/main/Malaria%20Task%20Findings%20Charts.twbx)
+The charts and graphs used were produced by using Tableau. The Tableau workbook is provided here: 
+[Malaria Task Findings Tableau Workbook](https://github.com/genephua/MalariaTask/blob/main/Malaria%20Task%20Findings%20Charts.twbx)
